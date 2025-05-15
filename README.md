@@ -1,2 +1,2 @@
 # CloSpan_Algorithm
-...
+
